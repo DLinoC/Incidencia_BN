@@ -1,4 +1,4 @@
-# Incidencia_BN
+# Formulario de Reporte de Incidencias BN
 ## Las tecnologias utilizadas fueron: HTML, Botstrap, CSS
 * Creamos un posible formulario de reporte de incidencias, para el banco de la nacion.
 * La versión de Botstrap que se está utilizando es la v5.2.
